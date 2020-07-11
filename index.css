@@ -1,4 +1,6 @@
-
+body{
+  font-family: Sans-Serif;
+}
 body img{
   max-width: 70vw;
   display: none;
